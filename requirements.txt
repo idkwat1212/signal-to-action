@@ -1,0 +1,8 @@
+# Stage 1-2: capture + analysis helpers
+# rtl_433 is a system package (apt), not pip
+# REA is installed via npx rea-agents (not pip)
+
+# Optional Python helpers for later stages
+# pyserial>=3.5        # talk to ESP32/Arduino
+# numpy>=1.26          # signal processing
+# scipy>=1.11          # decode experiments
